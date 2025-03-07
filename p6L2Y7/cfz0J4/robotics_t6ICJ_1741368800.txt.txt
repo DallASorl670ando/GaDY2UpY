@@ -20,7 +20,6 @@ Jasmine Hsu
 MBSim Development Team
 Takahiro Harada
 Simon Hobbs
-John Hsu
 Ole Kniemeyer
 Jay Lee
 Francisco Leon
