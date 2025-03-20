@@ -7,7 +7,6 @@ erl_crash.dump
 **/_build
 /db
 **/deps
-/*.ez
 /.deliver/releases/
 /.idea
 /*.iml
