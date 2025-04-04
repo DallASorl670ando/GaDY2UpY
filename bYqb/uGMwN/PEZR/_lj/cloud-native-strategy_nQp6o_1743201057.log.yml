@@ -7,7 +7,6 @@ spec:
   generators:
     - list:
         elements:
-        - cluster: https://kubernetes.default.svc                                       
   template:
     metadata:
       name: chip
